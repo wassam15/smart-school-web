@@ -1,0 +1,2 @@
+# smart-school-web
+web
